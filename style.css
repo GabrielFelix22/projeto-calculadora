@@ -72,3 +72,26 @@ button:active {
 .orange:hover {
     background-color: rgb(226 179 90);
 }
+
+@media screen and (max-width: 768px) {
+    .calculator {
+        width: 70vw;
+        height: 40vh;
+        position: absolute;
+        left: 65px;
+        top: 380px;
+    }
+
+    #result {
+        width: 70vw;
+        height: 100px;
+        position: absolute;
+        left: 65px;
+        top: 270px;
+    }
+
+    img {
+        height: 100%;
+        width: 100%;
+    }
+}
