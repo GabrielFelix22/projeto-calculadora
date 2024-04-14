@@ -54,7 +54,7 @@ button {
 
 button:hover {
     background-color: #DDD;
-    transition: 0.25s ease-in-out;
+    /* transition: 0.25s ease-in-out; */
 }
 
 button:active {
@@ -100,6 +100,14 @@ button:active {
         position: absolute;
         left: 65px;
         top: 200px;
+    }
+
+    .red {
+        color: #000000;
+    }
+
+    .orange {
+        color: #000000;
     }
 
     /* img {
