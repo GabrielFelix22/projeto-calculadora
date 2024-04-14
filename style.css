@@ -77,8 +77,8 @@ button:active {
     background-color: rgb(226 179 90);
 }
 
-@media screen and (max-width: 768px) {
-    .calculator {
+/* @media screen and (max-width: 768px) { */
+    /* .calculator {
         width: 70vw;
         height: 44vh;
         position: absolute;
@@ -108,10 +108,10 @@ button:active {
 
     .orange {
         color: #000000;
-    }
+    } */
 
     /* img {
         height: 100%;
         width: 100%;
     } */
-}
+/* } */
