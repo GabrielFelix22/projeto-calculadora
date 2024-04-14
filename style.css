@@ -90,6 +90,14 @@ button:active {
         top: 270px;
     }
 
+    input {
+        width: 70vw;
+        height: 100px;
+        position: absolute;
+        left: 65px;
+        top: 270px;
+    }
+
     img {
         height: 100%;
         width: 100%;
