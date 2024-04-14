@@ -75,7 +75,7 @@ button:active {
 @media screen and (max-width: 768px) {
     .calculator {
         width: 70vw;
-        height: 40vh;
+        height: 44vh;
         position: absolute;
         left: 65px;
         top: 315px;
