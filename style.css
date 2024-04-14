@@ -19,7 +19,6 @@
 img {
     width: 100vw;
     height: 150%;
-    /* -webkit-mask-image: linear-gradient(to top, transparent 5%, black 150%); */
     position: fixed;
     top: 0;
 }
